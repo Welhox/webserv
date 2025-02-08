@@ -15,4 +15,10 @@ Due to the use of epoll(), it sadly runs only on linux.
 To run it, launch it with a configuration file from the config folder as argument. 
 ./webserv config/server.conf
 
-default adress is 127.0.0.1:8081
+default adress is 127.0.0.1:8081.
+
+Works with GET, POST and DELETE.
+
+Can launch and handle multiple servers.
+
+
