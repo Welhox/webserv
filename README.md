@@ -34,7 +34,7 @@ A non-blocking HTTP/1.1 server written in C++, inspired by NGINX.
 
 ### 🔧 Build Instructions  
 ```sh
-git clone git@github.com:Welhox/webserv.git
+git clone https://github.com/Welhox/webserv.git
 cd webserv
 make
 ```
